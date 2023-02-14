@@ -28,6 +28,7 @@ public class MyAnnotation {
         System.out.println("github 代码修改");
 
         System.out.println("新修改");
+        System.out.println("github 新修改");
     }
 
 
