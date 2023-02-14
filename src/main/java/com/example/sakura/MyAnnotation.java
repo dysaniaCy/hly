@@ -21,6 +21,7 @@ public class MyAnnotation {
         System.out.println(myAnnotationTest.name());
 
         System.out.println("注解测试");
+        System.out.println("hot-fix 代码修改");
     }
 
 
