@@ -20,7 +20,7 @@ public class MyAnnotation {
         MyAnnotationTest myAnnotationTest = (MyAnnotationTest) c1.getAnnotation(MyAnnotationTest.class);
         System.out.println(myAnnotationTest.name());
 
-
+        System.out.println("注解测试");
     }
 
 
