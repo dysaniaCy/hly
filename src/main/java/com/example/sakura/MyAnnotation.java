@@ -22,6 +22,7 @@ public class MyAnnotation {
 
         System.out.println("注解测试");
         System.out.println("hot-fix 代码修改");
+        System.out.println("hot-fix 代码再次修改");
     }
 
 
