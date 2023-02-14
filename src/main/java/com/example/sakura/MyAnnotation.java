@@ -25,6 +25,7 @@ public class MyAnnotation {
         System.out.println("master 代码修改");
 
         System.out.println("本地 代码修改");
+        System.out.println("github 代码修改");
     }
 
 
